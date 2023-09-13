@@ -1,6 +1,7 @@
 .avatar {
     position: fixed;
-    opacity: 0.5;
+    opacity: 0.6;
+    overflow: hidden;
     z-index: -4;
   
   }
