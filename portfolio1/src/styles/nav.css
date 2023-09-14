@@ -5,10 +5,12 @@
     top: 3rem;
     gap: 2.7625rem;
     left: 50%;
+    color: white;
   }
-  
+
   .nav-about {
     transform: translateX(-1.56rem);
+   
   }
   .nav-skills {
     transform: translateX(-6.25rem);

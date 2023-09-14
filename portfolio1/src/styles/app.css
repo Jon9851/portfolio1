@@ -5,7 +5,9 @@ body{
     color: white;
 
 }
-
+nav{
+  color: white;
+}
 
 :root {
     --purple: #540351;
