@@ -57,7 +57,7 @@
     margin: 0;
   }
   .project-sub-container img {
-    width: 100%;
+    width: 140%;
     object-fit: cover;
     border-radius: 0.5rem 3rem 0.5rem 0.5rem;
     opacity: 0.9;

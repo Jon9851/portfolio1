@@ -18,7 +18,7 @@ const projects = {
       </>
     ),
     github: "https://github.com/Jon9851/You-Matter-",
-    demo: "https://netlify.com",
+    demo: "https://jon9851.github.io/You-Matter-/",
   },
   2: {
     title: "JavaScript Game",
@@ -47,7 +47,7 @@ The website is built using HTML5, CSS for styling, and Balsamiq for wireframes. 
       </>
     ),
     github: "https://github.com/Jon9851/Game-Review",
-    demo: "https://netlify.com",
+    demo: "",
 },
 
 4: {
@@ -64,8 +64,8 @@ Project 4, is an e-commerce site using Django, PostgreSQL, and Stripe for secure
         </p>
       </>
     ),
-    github: "https://github.com/Jon9851/Game-Review",
-    demo: "https://netlify.com",
+    github: "https://github.com/Jon9851/eshop",
+    demo: "https://eshopms4.herokuapp.com/",
   },
 };
 export default projects;
