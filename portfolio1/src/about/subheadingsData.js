@@ -16,23 +16,11 @@ const subheadingsData = {
     ],
     2: [
       {
-        title: "2016 Masters Degree",
+        title: "2022 Degree Web application Development ",
         content: (
           <>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
-          </>
-        ),
-      },
-      {
-        title: "2014 Bachelors Degree",
-        content: (
-          <>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+             Code Institute Full Stack Web Development
             </p>
           </>
         ),
@@ -40,34 +28,31 @@ const subheadingsData = {
     ],
     3: [
       {
-        title: "2022 Front End Developer",
+        title: "",
         content: (
           <>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            
             </p>
           </>
         ),
       },
       {
-        title: "2020 UX Designer",
+        title: "",
         content: (
           <>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          
             </p>
           </>
         ),
       },
       {
-        title: "2017 IT Consultant",
+        title: "",
         content: (
           <>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+             
             </p>
           </>
         ),
